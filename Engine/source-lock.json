@@ -151,7 +151,7 @@
     ],
     "patch": {
       "path": "patches/0001-omarchy-engine-runtime.patch",
-      "sha256": "28c3dbceebaeb2d023d972f816184609c2ffb6065502e1f91839ac69e9e4a94a"
+      "sha256": "7122576bffcdca067b26d7353c6675bf9a97ac89647a97e36f5c286582451c51"
     },
     "files": [
       {
@@ -292,7 +292,7 @@
       {
         "path": "overlay/tests/test_omarchy_firmware.py",
         "destination": "tests/test_omarchy_firmware.py",
-        "sha256": "3655ba86b7282c2ce3a5305b78dba2510e535e5ae5d669a473301003040c34f1"
+        "sha256": "b29ad4147e25e305fb2ea5880c51c02be7aa2266695ebb4cc9ccbb3eeb09f9b3"
       },
       {
         "path": "overlay/src/omarchy_als.py",
@@ -496,7 +496,7 @@
           "upstream_base_sha256": "c8d4d2a80f3a88a9ba4d6d4024c0001062e35d15d72ae530681a0612e6525984",
           "upstream_sha256": "894fb8cd2ffc672bb96a14969ee9de2879d250c8c5990fee122ccf66d9b50024",
           "base_sha256": "95760ed02d44b5457acb81559a4e2d892ffbb7f0f2b7417c0b2eb02937945ae7",
-          "sha256": "84da2978421cc551411bc4acd15e4fcd208ea21c4f2f01510bfed5ce49e809dc"
+          "sha256": "81587c14ab0ed46f7d624ddf774ba316a4ce6f32aafc53ee91684bc8b190688a"
         }
       ]
     },
